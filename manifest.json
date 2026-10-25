@@ -1,7 +1,7 @@
 {
-  "version": "0.9.1",
-  "url": "tones-0.9.1.bin",
-  "size": 1987008,
-  "sha256": "e609d9aa69ebd1a353cd858f8b7b5fa012c47323ce5dd48eb69bf0cb3daee7a4",
-  "notes": "Mises à jour par Internet, journal et assistance, citations personnalisables, Spotify plus fiable."
+  "version": "0.9.2",
+  "url": "tones-0.9.2.bin",
+  "size": 2044616,
+  "sha256": "17a125464473351bd5c25b61425af18859c73ba7b943c2e4d42b960b0c546271",
+  "notes": "Sécurité : firmwares signés, connexions HTTPS vérifiées, réseau de configuration protégé par mot de passe."
 }
